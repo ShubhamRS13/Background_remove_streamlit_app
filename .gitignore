@@ -1,0 +1,18 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+.idea/
+.vscode/
+*.local
+*.log
+
+# If rembg downloads models locally and you don't want to commit them
+# (SCC will download them on the server anyway)
+.u2net/ 
